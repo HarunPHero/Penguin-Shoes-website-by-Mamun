@@ -1,0 +1,95 @@
+.navbar-brand img{
+    width: 250px;
+    
+}
+#navbarNav{
+    margin-left: 24%;
+    
+}
+.row{
+    margin-right: 1px;
+}
+
+.nav-bg{
+    background-color: antiquewhite;
+}
+nav li{
+    padding:15px;
+}
+.banner{
+    width: 400px;
+}
+.banner-2{
+    width:360px;
+    margin-top: 40%;
+}
+.banner-t{
+    background-color: antiquewhite;
+    padding-bottom: 5%;
+}
+.run{
+    padding:5% ;
+    
+}
+.icon{
+    width: 25px;
+}
+.icon-2{
+    width: 90px;
+}
+.sadiq{
+    background-color: rgb(230, 230, 230);
+    border-radius: 20px;
+    
+}
+.card{
+    border: 0;
+    }
+    .card-footer{
+        background-color:white ;
+        border: 0;
+        
+    }
+    .card{
+        padding: 3%;
+        margin: 5%;
+        border-radius: 20px;
+    }
+    .card-btn{
+        margin-left: 10%;
+    }
+    
+    .details{
+        margin-left: 8%;
+    }
+    .finish{
+        margin-top: 100px;
+        margin-left: 30px;
+       
+    }
+    .radius{
+        border-radius: 30px;
+    }
+    button{
+        background-image: linear-gradient(to bottom, #593cff 0%, #6508fa 100%);
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        padding:8px;
+        font-weight: 500;
+    
+    }
+    footer{
+        color: gray;
+        font-size: 23px;
+        padding-top: 8%;
+        padding-bottom: 5%;
+      }
+      .title{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size: 35px;
+       }
+   .title:hover{
+       color: #ffe48a;
+   }
+      
+   

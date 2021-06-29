@@ -14,10 +14,10 @@
     background-color: antiquewhite;
 }
 nav li{
-    padding:15px;
+    padding:3px;
 }
 .banner{
-    width: 400px;
+    width: 340px;
 }
 .banner-2{
     width:360px;
@@ -26,6 +26,7 @@ nav li{
 .banner-t{
     background-color: antiquewhite;
     padding-bottom: 5%;
+    margin-top:6% ;
 }
 .run{
     padding:5% ;
